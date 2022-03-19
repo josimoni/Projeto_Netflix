@@ -13,4 +13,14 @@ $('.owl-carousel').owlCarousel({
             items:5
         }
     }
+
+   
 })
+
+function botao2 () {
+    window.open("https://youtu.be/Gp-H_YOcYTM")
+}
+
+function botao3 () {
+    window.open("https://studioghibli.com.br/filmografia/o-reino-dos-gatos/")
+}
