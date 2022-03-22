@@ -16,6 +16,7 @@ $('.owl-carousel').owlCarousel({
 
    
 })
+
 // funções dos botões do filme principal
 
 function botao1() {
