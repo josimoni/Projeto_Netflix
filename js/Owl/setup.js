@@ -57,3 +57,38 @@ function mandachuva() {
 function hellokitty() {
     window.open("https://youtu.be/rkq3M66Po_c")
 }
+
+function cats() {
+    window.open("https://youtu.be/rnI4NN_dnpA")
+}
+
+function babylooneytunes() {
+    window.open("https://youtu.be/1CwMcDXiet4.be/rkq3M66Po_c")
+}
+
+function catpeoples() {
+    window.open("https://youtu.be/qTr6yljr1DU")
+}
+function gatodebotas() {
+    window.open("https://youtu.be/1esRrwrmWzA")
+}
+
+function heathcliff() {
+    window.open("https://youtu.be/2lKBra4QSBs")
+}
+
+function kittylove() {
+    window.open("https://youtu.be/j1VlB55QPVE")
+}
+
+function pets() {
+    window.open("https://youtu.be/i-80SGWfEjM")
+}
+
+function petsunidos() {
+    window.open("https://youtu.be/l5VKjgVI00A")
+}
+
+function pets2() {
+    window.open("https://youtu.be/0zy-Kp_zywU")
+}
